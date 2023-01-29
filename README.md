@@ -63,7 +63,7 @@
 ![Блок-диаграмма основного алгоритма](/Algorithm%20block%20diagram.jpg)
 
 
-(C) разработчик Сергей Карпов.
+(C) created and developed by Sergey Karpov
 
 
 
