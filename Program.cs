@@ -9,7 +9,7 @@ string text = "A string is a sequential collection of characters that's used to 
                 "the content of the sequential collection of System.Char objects, and that value is immutable " +
                 "(that is, it is read-only). For more information about the immutability of strings, see the " +
                 "Immutability and the StringBuilder class section. The maximum size of a String object in memory " +
-                "is 2-GB, or about 1 billion characters.";
+                "is 2-GB, or about 1 billion characters. ;)";
 
 Console.Clear();
 // output string array taken from original string
